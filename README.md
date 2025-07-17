@@ -19,12 +19,13 @@ Always building. Always learning.
 
 | Project        | Description                                               | Live Demo |
 |----------------|-----------------------------------------------------------|-----------|
-| **Portfolio**  | My personal portfolio showcasing projects & skills        | [adityakurani.vercel.app](https://adityakurani.vercel.app) |
 | **Outfit-AI**  | AI-based outfit recommendations based on weather & style | [outfit-ai-liart.vercel.app](https://outfit-ai-liart.vercel.app) |
 | **Whisperlog** | Secure real-time chat with voice, image & file support    | [whisperlog.vercel.app](https://whisperlog.vercel.app) |
 
 ## 📫 Let’s Connect!
 I'm always open to collaboration, building products, or just talking about cool tech ideas.
+
+🔗 **Portfolio:** [adityakurani.vercel.app](https://adityakurani.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_kurani_26) 
@@ -63,7 +64,6 @@ I'm always open to collaboration, building products, or just talking about cool 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 # 📊 GitHub Stats:
