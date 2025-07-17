@@ -1,5 +1,46 @@
-# 💫 About Me:
-# Hey, I'm Aditya Kurani 👋<br><br>🚀 Third-year Software Engineering student | 🧠 Tech Explorer | 🛠️ Builder of smart, secure, scalable systems
+# 💫 About Me
+
+Hey, I'm **Aditya Kurani** 👋  
+🚀 Third-year Software Engineering Student  
+🧠 Tech Explorer | 🛠️ Builder of Smart, Secure & Scalable Systems  
+💬 Passionate about innovation, performance, and meaningful software.
+
+---
+
+## 🧩 What I Do
+
+- Full-stack developer with experience in **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, and more.
+- Build real-time applications (e.g., **Whisperlog**, a secure chat app with media, voice, and video features).
+- Explore system-level concepts like **end-to-end encryption**, **message buffering**, and **custom encryption protocols**.
+- Work with cloud platforms like **Google Cloud**, **Cloudflare**, and **Vercel** for modern deployment.
+- Build intelligent assistants (e.g., **Nova**, a voice-activated AI assistant with reminders, media controls, and image analysis).
+- Participate in hackathons and collaborate on creative, tech-driven solutions like **Wardrobe AI Assistant** (AI fashion recommender).
+- Use modern frameworks & tools like **React Native**, **FastAPI**, **GraphQL**, **Socket.IO**, **TailwindCSS**, and **JWT Auth**.
+- Constantly learning new technologies including **System Design**, **OpenCV**, **Data Compression**, **Signal-like Encryption**, etc.
+
+---
+
+## 📌 Current Projects
+- **Whisperlog** – Full-featured encrypted messaging platform with voice, video, media, and real-time sync.
+- **Wardrobe AI Assistant** – Outfit recommender powered by weather, AI, and virtual wardrobe management.
+- Exploring 2D → 3D floor plan conversion using **Blender** and **OpenCV**.
+- Building chatbots using **Gemini**, **DeepSeek**, and **Grok-3 APIs**.
+- Working on integrating OAuth 2.0, Apple Login, and improving refresh token flows in GraphQL APIs.
+
+---
+
+## 🎯 Interests & Learning Goals
+- 🔐 End-to-End Encryption & Secure Messaging Systems  
+- 🛠️ Scalable Backend Systems & Microservices  
+- 🎮 Real-time Communication & Multimedia  
+- 🎨 UI/UX with Tailwind, modern React patterns  
+- 🤖 OpenCV, Machine Learning, and Generative AI tools  
+- ⚙️ System Design Principles and Performance Optimization
+
+---
+
+## 📫 Let’s Connect!
+I'm always open to collaboration, building products, or just talking about cool tech ideas.
 
 
 ## 🌐 Socials:
