@@ -7,7 +7,7 @@ Hey, I'm **Aditya Kurani** 👋
 I build full-stack apps using **React**, **Node.js**, **MongoDB** with a focus on **performance**, **security**, and **real-time communication**.  
 
 Some of my work includes:  
-- 👗 **Wardrobe AI Assistant** – AI-powered outfit recommendations based on weather and personal style.  
+- 👗 **Outfit-AI** – AI-powered outfit recommendations based on weather and personal style.  
 - 🎙️ **Nova** – A voice-controlled AI assistant with smart system commands.
 
 Currently diving into **system design**, **OpenCV**, **data compression**, and **custom encryption**.
