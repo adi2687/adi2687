@@ -23,7 +23,9 @@ AI-powered outfit suggestions based on weather, wardrobe, and personal style.
 🔗 [Live Site](https://outfit-ai-liart.vercel.app)  
 ▶️ [Demo Video](https://www.youtube.com/watch?v=9sON54fRveU)
 
-[![Outfit-AI](https://img.youtube.com/vi/9sON54fRveU/0.jpg)](https://www.youtube.com/watch?v=9sON54fRveU)
+<a href="https://www.youtube.com/watch?v=9sON54fRveU">
+  <img src="https://img.youtube.com/vi/9sON54fRveU/0.jpg" width="300">
+</a>
 
 ---
 
@@ -32,7 +34,9 @@ Voice-controlled desktop assistant for commands, web search, media control, and 
 🔗 Local project  
 ▶️ [Demo Video](https://www.youtube.com/watch?v=t4Ru1JxYO6Y)
 
-[![Nova](https://img.youtube.com/vi/t4Ru1JxYO6Y/0.jpg)](https://www.youtube.com/watch?v=t4Ru1JxYO6Y)
+<a href="https://www.youtube.com/watch?v=t4Ru1JxYO6Y">
+  <img src="https://img.youtube.com/vi/t4Ru1JxYO6Y/0.jpg" width="300">
+</a>
 
 ---
 
