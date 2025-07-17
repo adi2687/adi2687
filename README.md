@@ -4,10 +4,9 @@ Hey, I'm **Aditya Kurani** 👋
 🚀 Third-year Software Engineering Student  
 🧠 Tech Explorer | 🛠️ Builder of Smart, Secure & Scalable Systems
 
-I build full-stack apps using **React**, **Node.js**, **MongoDB**, and **PostgreSQL**, with a focus on **performance**, **security**, and **real-time communication**.  
+I build full-stack apps using **React**, **Node.js**, **MongoDB** with a focus on **performance**, **security**, and **real-time communication**.  
 
 Some of my work includes:  
-- 🔒 **Whisperlog** – An encrypted messaging app with voice, video, and media features.  
 - 👗 **Wardrobe AI Assistant** – AI-powered outfit recommendations based on weather and personal style.  
 - 🎙️ **Nova** – A voice-controlled AI assistant with smart system commands.
 
