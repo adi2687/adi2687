@@ -15,12 +15,26 @@ Currently diving into **system design**, **OpenCV**, **data compression**, and *
 
 Always building. Always learning.
 
+---
+
 ## 🔗 Featured Projects
 
 | Project        | Description                                               | Live Demo |
 |----------------|-----------------------------------------------------------|-----------|
 | **Outfit-AI**  | AI-based outfit recommendations based on weather & style | [outfit-ai-liart.vercel.app](https://outfit-ai-liart.vercel.app) |
 | **Whisperlog** | Secure real-time chat with voice, image & file support    | [whisperlog.vercel.app](https://whisperlog.vercel.app) |
+
+---
+
+## 🎬 Project Demos
+
+### 👕 Outfit-AI Demo  
+[![Outfit-AI Demo](https://img.youtube.com/vi/9sON54fRveU/0.jpg)](https://www.youtube.com/watch?v=9sON54fRveU)
+
+### 🎙️ Nova Voice Assistant Demo  
+[![Nova Demo](https://img.youtube.com/vi/t4Ru1JxYO6Y/0.jpg)](https://www.youtube.com/watch?v=t4Ru1JxYO6Y)
+
+---
 
 ## 📫 Let’s Connect!
 I'm always open to collaboration, building products, or just talking about cool tech ideas.
