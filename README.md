@@ -125,8 +125,7 @@ Real-time, end-to-end encrypted chat with calls, group messaging, and media shar
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi2687&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=adi2687&theme=dark&hide_border=true)
-
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adi2687&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi2687&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
