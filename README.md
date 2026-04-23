@@ -2,9 +2,9 @@
 
 # Aditya Kurani
 
-**Full-Stack Engineer · MERN Stack · AI Systems · Real-Time Apps**
+**Full-Stack Engineer · MERN Stack · AI Systems · Distributed Systems**
 
-Third-year CS @ IIIT Nagpur (CGPA: 8.12) · Currently SWE Intern @ QuickIntell
+Third-year CS @ IIIT Nagpur (CGPA: 8.12) · Upcoming SWE Intern @ SMS DataTech Japan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityakurani.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kurani)
@@ -18,9 +18,9 @@ Third-year CS @ IIIT Nagpur (CGPA: 8.12) · Currently SWE Intern @ QuickIntell
 
 ## About
 
-I build and ship real products — AI platforms, encrypted real-time systems, distributed backends. Not side projects that never launch.
+I build and ship real products — AI platforms, encrypted real-time systems, and distributed backends.
 
-Currently interning at **QuickIntell** building agent-based systems with AWS SQS, Telnyx, and Deepgram. 500+ LeetCode problems. Two national hackathon placements.
+Upcoming SWE Intern at **SMS DataTech Japan**. Previously at **QuickIntell** building agent-based systems with AWS SQS, Telnyx, and Deepgram. 600+ LeetCode problems. Two national hackathon placements.
 
 **Exploring:** System Design · RAG pipelines · MCP · OpenCV · Custom Encryption
 
@@ -32,10 +32,11 @@ Currently interning at **QuickIntell** building agent-based systems with AWS SQS
 *Sept 2025 – Present*
 
 - Migrated state management from React Context to **Zustand** → **35% fewer redundant API calls**
-- Architected **agent-based backend with AWS SQS** for concurrent document uploads and async processing
+- Architected **agent-based backend with AWS SQS** for concurrent document uploads and async processing across workers
 - Integrated **Telnyx APIs** for mass outbound calling campaigns serving **100K+ users per campaign**
-- Built cursor-based pagination with **Prisma** → **40% faster page loads and render efficiency**
-- Built call analytics platform using **Deepgram STT** + **Inngest** for background job processing
+- Built cursor-based pagination with **Prisma** → **40% faster page loads**
+- Built webhook-driven call analytics pipeline using **Inngest** + S3-triggered events → **40% faster setup and deployment**
+- Developed call analytics platform leveraging **Deepgram STT** for background processing of recorded calls
 
 ### Backend Developer Intern · eSubhalekha
 *Jan 2025 – Mar 2025*
@@ -62,22 +63,26 @@ AI-powered outfit recommendations based on weather, location, age, and gender �
 | Daily active users (post Android launch) | 100+ |
 | Uptime | 99% |
 
-> Custom load balancer + SQS for distributed scraping across multiple servers.
+> Custom load balancer + AWS SQS pipeline for distributed scraping across multiple servers.
 
 ---
 
-### Whisperlog &nbsp;·&nbsp; [Live](https://whisperlog.vercel.app) · [GitHub](https://github.com/adi2687/whisperlog)
-`Node.js` `Express.js` `React` `MongoDB` `Socket.IO` `IPFS` `AES-256-CBC` `Gemini API`
+### Crumbs &nbsp;·&nbsp; [Live](https://github.com/adi2687/crumbs) · [GitHub](https://github.com/adi2687/crumbs)
+`Node.js` `Express.js` `React.js` `MongoDB` `Socket.IO` `Docker` `P2P` `AES-256-CBC` `SHA-256`
 
-End-to-end encrypted real-time chat with calls, group messaging, and media sharing. Built privacy-first.
+P2P distributed file storage system with sharding, end-to-end encryption, and fault-tolerant recovery.
 
 | Metric | Result |
 |---|---|
-| DB write reduction (hashmap buffering) | 92% |
-| Media retrieval improvement (IPFS) | 30% faster |
-| Network traffic reduction (debouncing) | 25% |
+| Max file size supported | 1GB+ |
+| Throughput improvement (heartbeat peer mgmt) | ~2x |
+| Peer dropout reduction | 40% |
+| Media size reduction (WebP pipeline) | 90% |
+| Storage cost reduction | 60% |
+| Client load time improvement | 35% |
+| Data recovery from partial shard loss | 100% (up to 30% loss) |
 
-> Full Socket.IO pipeline: typing indicators, read receipts, friend management, real-time notifications.
+> 100KB sharding with SHA-256 integrity checks, Reed-Solomon erasure coding, and AES-256-CBC encryption end-to-end.
 
 ---
 
@@ -89,11 +94,18 @@ End-to-end encrypted real-time chat with calls, group messaging, and media shari
 | 🏅 **Top 50 / 1,600** | Medecro.ai National Hackathon (2024) |
 | 🎯 **Semi-finalist** | GRAB Hackathon (2025) |
 | 📐 **Qualified** | IYMC (2023 & 2024) |
-| 💻 **500+ solved** | LeetCode — strong DSA foundation |
+| 💻 **600+ solved** | LeetCode — strong DSA foundation |
 
 ---
 
 ## Tech Stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -116,13 +128,6 @@ End-to-end encrypted real-time chat with calls, group messaging, and media shari
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
 **AI & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
